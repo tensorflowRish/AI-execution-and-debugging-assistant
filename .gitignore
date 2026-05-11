@@ -1,1 +1,8 @@
 .env
+__pycache__/
+*.pyc
+storage/index.faiss
+storage/history.json
+storage/memory.json
+src/explanation_agent.py
+src/planner_agent.py
